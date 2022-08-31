@@ -13,7 +13,7 @@
 <ul>
   <li>Apaixonado por tecnologia desde meu 🖥️ 486!</li>
   <br>
-  <li>📐 Engenheiro Civil</li>
+  <li>👷 Engenheiro Civil</li>
   <br>
   <li>Pai de uma linda garotinha! 💕</li>
 </ul>
@@ -24,7 +24,7 @@
 <br>
 - ❤ Estudante de Desenvolvimento Web<br><br>
 - 💚 <a href = "https://www.betrybe.com/" target = "_blank"> Trybe </a><br><br>
-- 👩‍💻 Aprendendo algo sobre back-end
+- 🧑‍💻 Always learning :)
 <br><br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
